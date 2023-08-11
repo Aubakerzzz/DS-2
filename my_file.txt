@@ -1,0 +1,16 @@
+
+
+11 
+
+
+
+			3rd File. 
+
+
+
+The file getting processed and the converted postfix notations are acbc*+- and Expression InvaliD
+One more statement to test your coding skills to handle the character arrya without using any builtin funciton, 
+so show this expression in to prefix form -/*agbn^+cdfg.
+The skill test doesn't stop there, 
+you have to evaluate on more statement to prove your skills on basic stack working. 
+Evalaution result of provided strings are 
